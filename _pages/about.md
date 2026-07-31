@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Research Fellow</a>. Berlin Social Science Center
+subtitle: <a href='#'>Doctoral Research Fellow</a>. WZB
 
 profile:
   align: right
@@ -19,7 +19,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a doctoral researcher at the [Berlin Social Science Center (WZB)](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality) and a member of the [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics/about-dynamics) Research Training Group (Hertie School & Humboldt University). 
+I am a doctoral research fellow at the [Berlin Social Science Center (WZB)](https://www.wzb.eu/en/research/political-economy-of-development/institutions-and-political-inequality) and a member of the [DYNAMICS](https://www.sowi.hu-berlin.de/en/dynamics/about-dynamics) Research Training Group (Hertie School & Humboldt University). 
 
 I study public goods, collective action, urban development, and social cohesion in Lebanon, Nigeria, and Zimbabwe. Combining quantitative methods (causal inference, experiments) with qualitative fieldwork, I aim to re-examine conventional development paradigms to inform better-designed policies and programs.
 
