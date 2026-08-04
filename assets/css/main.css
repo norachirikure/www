@@ -115,6 +115,10 @@ strong {
   color: var(--global-text-color);
 }
 
+p {
+  line-height: 1.65;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -203,16 +207,17 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 
 .profile.float-left {
   margin-right: 1rem;
+  margin-top: -0.5rem;
 }
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 38%;
   }
   .profile .address p {
     display: block;
@@ -282,7 +287,7 @@ blockquote {
 .navbar.navbar-light .navbar-brand.social {
   padding-bottom: 0;
   padding-top: 0;
-  font-size: 1.7rem;
+  font-size: 1.9rem;
 }
 .navbar.navbar-light .navbar-brand.social a i::before {
   color: var(--global-text-color);
@@ -337,9 +342,10 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 .social .contact-icons a i::before {
+  margin: 0 8px;
   color: var(--global-text-color);
   transition-property: all 0.2s ease-in-out;
 }
