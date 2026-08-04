@@ -864,3 +864,14 @@ pre {
     opacity: 1;
   }
 }
+
+/* Custom text selection highlight */
+::selection {
+  background: #0d472a; /* Bottle green background */
+  color: #ffffff;    /* White text when highlighted */
+}
+
+::-moz-selection {
+  background: #0d472a;
+  color: #ffffff;
+}
