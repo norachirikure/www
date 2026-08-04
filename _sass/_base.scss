@@ -19,6 +19,10 @@ strong {
   color: var(--global-text-color);
 }
 
+p {
+  line-height: 1.65; // Adds comfortable spacing between lines
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -127,16 +131,17 @@ blockquote {
 }
 
 .profile.float-right {
-  margin-left: 1rem;
+  margin-left: 1.5rem;
 }
 
 .profile.float-left {
   margin-right: 1rem;
+  margin-top: -0.5rem;
 }
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 38%;
 
     .address {
       p {
@@ -228,7 +233,7 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 1.9rem;
 
     a {
       i::before {
@@ -302,10 +307,11 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 1rem;
+    font-size: 1.5rem;
 
     a {
       i::before {
+        margin: 0 8px;
         color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
