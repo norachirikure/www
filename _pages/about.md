@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Doctoral Research Fellow</a>. WZB
+subtitle: <strong><a href='#'>Doctoral Research Fellow</a>. WZB</strong>
 
 profile:
   align: right
