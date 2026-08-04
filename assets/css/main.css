@@ -782,6 +782,17 @@ pre:active .copy, pre:focus .copy, pre:hover .copy {
   opacity: 1;
 }
 
+/* Custom text selection highlight */
+::selection {
+  background: #0d472a; /* Bottle green background */
+  color: #ffffff; /* White text when highlighted */
+}
+
+::-moz-selection {
+  background: #0d472a;
+  color: #ffffff;
+}
+
 /*******************************************************************************
  * Style overrides for distill blog posts.
  ******************************************************************************/
