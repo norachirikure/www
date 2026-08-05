@@ -8,9 +8,13 @@ category: research
 ---
 
 ### Project Overview
-In repeated exclusion contexts, disengagement often stems from **learned helplessness**—the belief that individual actions are decoupled from collective outcomes. This study evaluates a Cognitive Behavioral Therapy (CBT) group intervention across 24 conflict-affected communities in Nigeria (Plateau, Taraba, and Kaduna states).
+In repeated exclusion contexts, disengagement often stems from **learned helplessness**—the belief that individual actions are decoupled from collective outcomes. This study evaluates a Cognitive Behavioral Therapy (CBT) group intervention across 24 conflict-affected communities in Nigeria (Plateau, Taraba, and Kaduna states)[cite: 1].
+
+<div class="repositories d-flex flex-wrap flex-row justify-content-flex-start align-items-center">
+  <a href="[https://osf.io/](https://osf.io/5a7ys/overview)" target="_blank" class="btn btn-sm z-depth-0" role="button">Pre-Analysis Plan (OSF)</a>
+</div>
 
 ### Key Mechanism & Design
-* **Intervention:** Standardized 12-session CBT program delivered in partnership with GIZ and IOM.
-* **Behavioral Metric:** Participation and temporal engagement at a local **Community Action Day** (e.g., primary school or health center cleanup).
-* **Core Question:** Can shifting individual psychological self-efficacy directly translate into increased civic engagement and public goods provision?
+* **Intervention:** Standardized 8-session CBT program delivered in partnership with GIZ and IOM[cite: 1].
+* **Behavioral Metric:** Participation and temporal engagement at a local **Community Action Day** (e.g., primary school or health center cleanup)[cite: 1].
+* **Core Question:** Can shifting individual psychological self-efficacy directly translate into increased civic engagement and public goods provision[cite: 1]?
