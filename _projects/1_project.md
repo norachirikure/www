@@ -2,7 +2,7 @@
 layout: page
 title: Formalising Community Voice in Urban Service Delivery in Zimbabwe
 description: a project with a background image
-img: assets/poorservice.jpeg
+img: assets/poorservice .jpeg
 importance: 1
 category: work
 ---
