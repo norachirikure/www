@@ -18,3 +18,7 @@ Evaluating the participatory pathway to institutional trust across 24 municipali
 * **Intervention:** Randomly selected residents join municipal working groups alongside local officials to decide on local socioeconomic development projects[cite: 1].
 * **Behavioral & Attitudinal Metrics:** Measured through an attitudinal trust index, a dictator game allocating real funds to municipal budgets, and subsequent meeting attendance[cite: 1].
 * **Key Insight:** Explores whether participation generates trust through three DAG pathways: *understanding*, *connections*, and *inclusion*[cite: 1].
+
+### Media Coverage & Public Presentations
+* **Podcast Interview:** *[Insert Podcast Name]* – "Discussing Sovereign Debt and Digital Transformation in Africa" [[Listen Here](https://podcast-link.com)]
+* **Keynote Panel:** High-Level Dialogue with BMZ Minister Svenja Schulze [[Event Recording](https://event-link.com)][cite: 2].
