@@ -1,9 +1,9 @@
 ---
-layout: page
+# layout: page
 title: Psychological Foundations of Collective Action
-description: Evaluating a CBT-informed group intervention to shift self-efficacy and public goods cooperation in conflict-affected Nigeria.
+# description: Evaluating a CBT-informed group intervention to shift self-efficacy and public goods cooperation in conflict-affected Nigeria.
 img: assets/img/nigeria.jpeg
-importance: 1
+importance: 3
 category: work
 ---
 
