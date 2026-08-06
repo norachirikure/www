@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Upward Accountablity and Urban Service Delivery 
+title: Upward Accountability and Urban Service Delivery
 description: Testing formal petition tools under Ministry monitoring to resolve collective action failures in Bulawayo, Zimbabwe.
-img: assets/poorservice .jpeg
-importance: 1
+img: assets/img/poorservice.jpeg
+importance: 3
 category: work
 ---
 
 ### Project Overview
-Investigating the supply-side conditions under which formalizing community voice breaks cycles of municipal exclusion in Bulawayo, Zimbabwe.
+Investigating the supply-side conditions under which formalizing community voice breaks cycles of municipal exclusion in Bulawayo, Zimbabwe[cite: 1].
 
 ### Key Mechanism & Design
 * **Intervention:** Residents' associations facilitate standardized petitions mapped to the Ministry of Local Government’s *Minimum Service Delivery Standards* framework[cite: 1].
