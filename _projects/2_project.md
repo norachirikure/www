@@ -4,11 +4,11 @@ title: Direct Citizen Inclusion in Local Governance
 description: Field experiment assessing whether direct participation in municipal working groups builds institutional trust in Lebanon.
 img: assets/img/lebanon.jpeg
 importance: 2
-category: research
+category: work
 ---
 
 ### Project Overview
-Evaluating the participatory pathway to institutional trust across 24 municipalities in Lebanon in collaboration with GIZ, Berghof Foundation, and The Policy Initiative (TPI)[cite: 1].
+Evaluating the participatory pathway to institutional trust across 24 municipalities in Lebanon in collaboration with GIZ, Berghof Foundation, and The Policy Initiative (TPI).
 
 <div class="repositories d-flex flex-wrap flex-row justify-content-flex-start align-items-center">
   <a href="https://osf.io/97jsf/overview" target="_blank" class="btn btn-sm z-depth-0" role="button">Pre-Analysis Plan (OSF: 97jsf)</a>
@@ -18,7 +18,3 @@ Evaluating the participatory pathway to institutional trust across 24 municipali
 * **Intervention:** Randomly selected residents join municipal working groups alongside local officials to decide on local socioeconomic development projects[cite: 1].
 * **Behavioral & Attitudinal Metrics:** Measured through an attitudinal trust index, a dictator game allocating real funds to municipal budgets, and subsequent meeting attendance[cite: 1].
 * **Key Insight:** Explores whether participation generates trust through three DAG pathways: *understanding*, *connections*, and *inclusion*[cite: 1].
-
-### Media Coverage & Public Presentations
-* **Podcast Interview:** *[Insert Podcast Name]* – "Discussing Sovereign Debt and Digital Transformation in Africa" [[Listen Here](https://podcast-link.com)]
-* **Keynote Panel:** High-Level Dialogue with BMZ Minister Svenja Schulze [[Event Recording](https://event-link.com)][cite: 2].
