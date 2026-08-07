@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Upward Accountability and Urban Service Delivery
+title: Quality Oversight in Urban Service Delivery
 description: Testing formal petition tools under Ministry monitoring to resolve collective action failures in Bulawayo, Zimbabwe.
 img: assets/img/poorservice.jpeg
 importance: 1
