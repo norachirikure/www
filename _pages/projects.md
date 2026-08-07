@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research projects on collective action, citizen engagement, and public goods delivery.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [research]
 horizontal: false
 ---
 <div class="projects">
