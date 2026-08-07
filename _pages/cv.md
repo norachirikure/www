@@ -20,4 +20,8 @@ cv_pdf: Nora_Chirikure_CV.pdf
 </header>
  
   <article>
-<div class="cv">
+    <div class="cv">
+      <!-- Your CV content goes here if you want text, or leave blank if only serving the PDF -->
+    </div>
+  </article>
+</div>
