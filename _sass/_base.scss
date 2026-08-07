@@ -93,6 +93,7 @@ blockquote {
 
   .card-title {
     color: var(--global-text-color);
+    text-transform: none !important;
   }
 
   .card-item {
