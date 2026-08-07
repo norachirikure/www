@@ -4,7 +4,7 @@ title: Quality Oversight in Urban Service Delivery
 description: Testing petition tools under Ministry monitoring to resolve public service issues in Bulawayo, Zimbabwe.
 img: assets/img/poorservice.jpeg
 importance: 1
-category: research
+category: Fieldwork
 ---
 
 ### Project Overview
