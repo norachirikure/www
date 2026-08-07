@@ -178,6 +178,7 @@ blockquote {
 }
 .card .card-title {
   color: var(--global-text-color);
+  text-transform: none !important;
 }
 .card .card-item {
   width: auto;
