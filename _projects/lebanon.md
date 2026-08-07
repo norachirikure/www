@@ -4,7 +4,7 @@ title: Direct Citizen Inclusion in Local Governance
 description: Field experiment assessing whether direct participation in municipal working groups builds institutional trust in Lebanon.
 img: assets/img/lebanon.jpeg
 importance: 2
-category: work
+category: research
 ---
 
 ### Project Overview
