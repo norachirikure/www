@@ -12,10 +12,13 @@ nav_order: 1
   <h2>Working Papers</h2>
   {% bibliography -f papers -q @*[keywords=*working_paper*]* %}
 
-  <h2 class="mt-4">Policy Briefs & Reports</h2>
+  <h2 class="mt-4">Policy Briefs</h2>
   {% bibliography -f papers -q @*[keywords=*policy*]* %}
 
-  <h2 class="mt-4">Other Writing & Commentary</h2>
+  <h2 class="mt-4">Reports</h2>
+  {% bibliography -f papers -q @*[keywords=*report*]* %}
+
+  <h2 class="mt-4">Other Writing</h2>
   {% bibliography -f papers -q @*[keywords=*other*]* %}
 
 </div>
