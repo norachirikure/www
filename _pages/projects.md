@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+# title: projects
 permalink: /projects/
 # description: Research projects on collective action, citizen engagement, and public goods delivery.
 nav: true
