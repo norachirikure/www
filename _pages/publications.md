@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: false
+title: Research Outputs
 # description: publications by categories in reversed chronological order. 
 years: [Working Papers, Policy Briefs, Reports, Other Writing]
 nav: true
