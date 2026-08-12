@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /writing/
-title: false
+title: writing
 years: [Working Papers, Discussion, Policy Briefs, Reports]
 nav: true
 nav_order: 1
