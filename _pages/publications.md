@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: writing
 # description: publications by categories in reversed chronological order. 
-years: [Working Papers, Policy Briefs, Discussion, Report]
+years: [Working Papers, Discussion, Policy Briefs, Reports]
 nav: true
 nav_order: 1
 ---
