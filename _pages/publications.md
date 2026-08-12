@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /writing/
 title: writing
 # description: publications by categories in reversed chronological order. 
 years: [Working Papers, Discussion, Policy Briefs, Reports]
