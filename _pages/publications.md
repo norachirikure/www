@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /publications/
-title: output
+title: writing
 # description: publications by categories in reversed chronological order. 
-years: [Working Papers, Policy Briefs, Reports, Other Writing]
+years: [Working Papers, Policy Briefs, Discussion, Report]
 nav: true
 nav_order: 1
 ---
@@ -18,7 +18,7 @@ nav_order: 1
   <h2 class="mt-4">Reports</h2>
   {% bibliography -f papers -q @*[keywords=*report*]* %}
 
-  <h2 class="mt-4">Other Writing</h2>
-  {% bibliography -f papers -q @*[keywords=*other*]* %}
+  <h2 class="mt-4">Discussion</h2>
+  {% bibliography -f papers -q @*[keywords=*discussion*]* %}
 
 </div>
