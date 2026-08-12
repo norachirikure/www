@@ -3,6 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 # description: Research projects on collective action, citizen engagement, and public goods delivery.
+display_title: false
 nav: true
 nav_order: 3
 display_categories: [Fieldwork]
