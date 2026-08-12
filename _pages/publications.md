@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /writing/
+permalink: /publications/
 title: writing
 years: [Working Papers, Discussion, Policy Briefs, Reports]
 nav: true
